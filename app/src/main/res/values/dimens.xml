@@ -1,0 +1,22 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="score_width">120dp</dimen>
+    <dimen name="score_width_land">100dp</dimen>
+    <dimen name="name_width_land">250dp</dimen>
+
+    <dimen name="score_text_size">48sp</dimen>
+
+    <dimen name="score_bid_name_text_size">24sp</dimen>
+    <dimen name="score_bid_name_width">130dp</dimen>
+    <dimen name="score_bid_number_width">80dp</dimen>
+    <dimen name="spinner_width">30dp</dimen>
+
+    <dimen name="round">10dp</dimen>
+    <dimen name="button_height">300dp</dimen>
+    <dimen name="button_width">0dp</dimen>
+    <dimen name="button_margin_top_bot">75dp</dimen>
+
+</resources>

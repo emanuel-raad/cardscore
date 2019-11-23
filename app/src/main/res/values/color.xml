@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_error">#5AFF4500</color>
+    <color name="background_good">#5A22FF02</color>
+    <color name="default_font">#6E6E6E</color>
+    <color name="dealer">#59CFFF</color>
+</resources>
